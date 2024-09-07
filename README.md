@@ -3,7 +3,7 @@
 <!-- DESCRIPTION -->
 ## Description:
 
-Concealing one's writing style offers several benefits, particularly in contexts where anonymity or impartiality is crucial. By masking identifiable stylistic traits, an author can prevent biases, ensuring that the content is judged solely on its merits rather than on preconceived notions about the writer. This approach enhances objectivity, allowing ideas to be received more universally without the influence of the author's identity. Additionally, concealing one's style can protect privacy, making it harder for others to attribute sensitive or controversial writings to a particular individual.
+Concealing one's writing style offers several benefits, particularly in contexts where anonymity or impartiality is crucial. Additionally, concealing one's style can protect privacy, making it harder for others to attribute sensitive or controversial writings to a particular individual.
 
 <!-- INSTALLATION -->
 ## Installation:
